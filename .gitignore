@@ -1,0 +1,4 @@
+node_modules
+cypress-visual-*
+yarn-error.log
+cypress/screenshots/
